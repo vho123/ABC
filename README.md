@@ -23,7 +23,7 @@ Topic: Copilot Studio Workflows
 4. Create Agent - Lab Test Result Comparison Agent
 <img width="2000" height="651" alt="image" src="https://github.com/user-attachments/assets/ea3aae84-49ec-4faa-b552-2cce3548efa4" />
 
-5. Create Workflow - GHK Lab Result Workflow
+5. Create Workflow - Lab Result Workflow
 <img width="1590" height="381" alt="image" src="https://github.com/user-attachments/assets/290021e5-c237-4589-8632-eee386fabc9a" />
 
 5.1 When a file is created in OneDrive
@@ -58,7 +58,7 @@ Topic: Copilot Studio Workflows
 <img width="711" height="550" alt="image" src="https://github.com/user-attachments/assets/3294f31a-1e78-4826-84cb-1450b9cf4b17" />
 <img width="698" height="736" alt="image" src="https://github.com/user-attachments/assets/ecb029b1-081d-4f1d-b959-5e39f1945477" />
 
-6.2 Run Copilot  to generate a summary.
+6.2 Run Copilot to generate a summary.
 
 You are lab test result interpreter. Do not provide any medical advise. Digest below XXX and write a summary for the XXX.
 
