@@ -58,7 +58,12 @@ Topic: Copilot Studio Workflows
 <img width="711" height="550" alt="image" src="https://github.com/user-attachments/assets/3294f31a-1e78-4826-84cb-1450b9cf4b17" />
 <img width="698" height="736" alt="image" src="https://github.com/user-attachments/assets/ecb029b1-081d-4f1d-b959-5e39f1945477" />
 
-6.2 Run Copilot  to generate a summary
+6.2 Run Copilot  to generate a summary.
+
+You are lab test result interpreter. Do not provide any medical advise. Digest below XXX and write a summary for the XXX.
+
+If the input is empty or saying no historical data to compare, skip this task and output empty data.
+The whole output should be purely html format that will be used in Microsoft teams message.
 
 <img width="652" height="791" alt="image" src="https://github.com/user-attachments/assets/1592681d-d3ca-4959-bd6a-9eb344c62ebc" />
 
