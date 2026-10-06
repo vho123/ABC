@@ -1,4 +1,4 @@
-Disclaimer: all the materials below are dummy data for education purpose.
+Disclaimer: all the materials in this repository are dummy data for education purpose. DO NOT use it in production environment.
 
 # ABC Hospital AI Training
 Module 4: 7 & 16 Oct 2026
